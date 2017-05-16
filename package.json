@@ -1,0 +1,20 @@
+{
+  "name": "miniWorldTry",
+  "basePath": "/",
+  "version": "0.1.0",
+  "devDependencies": {
+    "a-frame": "0.0.0",
+    "aframe-extras": "^3.8.1",
+    "aframe-physics-components": "^1.1.0",
+    "aframe-physics-system": "^1.4.0",
+    "aframe-teleport-controls": "^0.2.0",
+    "gulp": "^3.9.1",
+    "gulp-browserify": "^0.5.1",
+    "gulp-open": "^2.0.0",
+    "gulp-serve": "^1.4.0",
+    "super-hands": "^0.3.1"
+  },
+  "dependencies": {
+    "aframe": "^0.5.0"
+  }
+}
